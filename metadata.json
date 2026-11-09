@@ -1,0 +1,6 @@
+{
+  "name": "SANGINI - Women Empowerment & Digital SHG Management Platform",
+  "description": "Comprehensive enterprise-grade digital SHG and microfinance management platform for rural and semi-urban women empowerment in India.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
